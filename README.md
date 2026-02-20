@@ -4,3 +4,5 @@ Please note that this project was more of a "Proof Of Concept" than a full relea
 I am a 3rd year Mechanical Engineering student, so much of this project was more vibe based than anything- The whole project was 5hr from start to finish.
 
 I have linked the base solidworks file, a .stl, and an N52 base flange. You can use all of these to create your own velocity stacks, manifold, etc. Enjoy!
+
+Note: This is my first time using Github, sorry for terrible structure!
